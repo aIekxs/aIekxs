@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, я Зубаков Александр
 
-<!--
-**aIekxs/aIekxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 4 курса СПбГЭТУ «ЛЭТИ» (ИВТ, ИИ). Python-разработчик (backend).
 
-Here are some ideas to get you started:
+## Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Языки:** Python, SQL
+- **Backend:** Django, Django REST Framework, REST API, JWT
+- **БД:** PostgreSQL
+- **Инструменты:** Git, Docker, Docker Compose, Nginx, Gunicorn
+
+## Проекты
+
+- **[TeamFinder](https://github.com/aIekxs/team-finder-ad)** — платформа для поиска команды в pet-проекты. Django, PostgreSQL, Docker Compose, Nginx.
+- **[API Yatube](https://github.com/aIekxs/api-final-yatube-ad)** — REST API для социальной сети. Django REST Framework, JWT.
+- **[Лабораторные по ML](https://github.com/aIekxs/ml-labs)** — учебные работы на Python (scikit-learn).
+
+## Курсы
+
+- Яндекс Практикум: бэкенд-разработка на Python
+- Stepik: 4 курса от «Поколение Python», интерактивный тренажёр по SQL (https://stepik.org/users/920486028/profile)
+
+## Контакты
+
+- Telegram: https://t.me/alekxs_job
+- Email: zubakov5216@gmail.com
